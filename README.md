@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/badge/Arch%20Linux-111827?style=flat-square&logo=archlinux" />
   <img src="https://img.shields.io/badge/VS%20Code-111827?style=flat-square&logo=visualstudiocode" />
   <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker" />
-  <img src="https://camo.githubusercontent.com/d5c7d8704bd639533f37f77bff4ef9267bcfeeb5d84039dd14512d076ac600b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f77657225323042492d4632433831313f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7765726269266c6f676f436f6c6f723d626c61636b"/> 
+  <img src="https://img.shields.io/badge/Power%20BI-111827?style=flat-square&logo=powerbi&logoColor=F2C811" />
 </p>
 
 ---
