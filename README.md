@@ -42,6 +42,11 @@
   <img src="https://img.shields.io/badge/AI%20%26%20ML-111827?style=flat-square&logo=openai" />
   <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux" />
   <img src="https://img.shields.io/badge/Arch%20Linux-111827?style=flat-square&logo=archlinux" />
+  <img src="https://img.shields.io/badge/Frontend-111827?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker" />
+  <img src="https://img.shields.io/badge/VS%20Code-111827?style=flat-square&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql" />
 </div>
 
 ---
