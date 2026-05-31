@@ -22,7 +22,7 @@
 - 🤖 Interested in **AI**, **machine learning** and **data science**
 - 🧩 I enjoy algorithms, backend development and problem solving
 - 🐧 Arch Linux user
-- 🌱 Currently learning **JavaScript**, **Java**, **C++** and **Docker**
+- 🌱 Currently learning **React**
 
 ---
 
