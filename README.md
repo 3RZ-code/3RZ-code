@@ -78,7 +78,7 @@
 ## 🌱 Currently learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-111827?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" />
 </p>
 
 ---
