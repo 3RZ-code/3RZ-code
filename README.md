@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python" />
   <img src="https://img.shields.io/badge/Django-111827?style=flat-square&logo=django" />
   <img src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql" />
-  <img src="https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite" />
+  <img src="https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql" />
   <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker" />
   <img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk" />
@@ -78,7 +78,7 @@
 ## 🌱 Currently learning
 
 <p align="center">
-
+  <img src="https://img.shields.io/badge/Frontend-111827?style=flat-square&logo=react" />
 </p>
 
 ---
