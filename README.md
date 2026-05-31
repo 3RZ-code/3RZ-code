@@ -9,9 +9,9 @@
   and turn ideas into clean, usable software.
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=3RZ-code&style=flat-square&color=7c3aed&label=Profile+views" />
-</p>
+</p> -->
 
 ---
 
@@ -93,7 +93,7 @@
   <a href="https://www.kaggle.com/michakakaa">
     <img src="https://img.shields.io/badge/Kaggle-111827?style=for-the-badge&logo=kaggle" />
   </a>
-  <a href="https://zindi.africa/users/3RZ-code">
+  <a href="https://zindi.africa/users/3RZ">
     <img src="https://img.shields.io/badge/Zindi-111827?style=for-the-badge" />
   </a>
 </div>
