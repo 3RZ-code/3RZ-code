@@ -29,8 +29,6 @@
 - 🐍 Focused on **Python**, **Django** and **SQL**
 - 🧠 Interested in **AI**, **machine learning** and **data science**
 - ⚙️ I enjoy backend development, algorithms and problem solving
-- 🌱 Currently learning **React**
-
 ---
 
 ## Tech stack
@@ -114,15 +112,6 @@ Projects involving relational databases, SQL queries, triggers, procedures and a
 
 **Tech:** SQL, PostgreSQL, backend development
 
----
-
-## Currently learning
-
-<p>
-  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
----
 
 ## GitHub stats
 
